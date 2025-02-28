@@ -150,7 +150,6 @@ npm install myapp
 import MyApp from 'myapp';
 MyApp.start();
 ```
-```
 
 
 ### 12. How can you succinctly convey the purpose and key features of a product?
