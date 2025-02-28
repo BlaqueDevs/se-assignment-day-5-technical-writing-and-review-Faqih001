@@ -152,7 +152,6 @@ MyApp.start();
 ```
 ```
 
----
 
 ### 12. How can you succinctly convey the purpose and key features of a product?
 - **Use a Single-Sentence Summary:** "MyApp helps teams collaborate efficiently with real-time task tracking."
@@ -162,4 +161,3 @@ MyApp.start();
   - ✅ **Task assignment**
   - ✅ **Mobile & desktop support**
 
----
